@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ver1-2-5154d7122d314a1fbd498f63c9c8aac4',
+  rootNotionPageId: '1eb39fdd571b49959bc1c79722d122db',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '聲音無限管理',
-  domain: 'https://www.notion.so/ver1-2-5154d7122d314a1fbd498f63c9c8aac4',
+  domain: 'https://www.notion.so/1eb39fdd571b49959bc1c79722d122db',
   author: 'VI',
 
   // open graph metadata (optional)
